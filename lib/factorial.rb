@@ -1,0 +1,2 @@
+def factorial(number)
+end
